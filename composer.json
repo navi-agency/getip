@@ -1,0 +1,25 @@
+{
+    "name": "open2web/getip",
+    "description": "get ip",
+    "keywords": [
+        "ip"
+    ],
+    "license": "MIT",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "open2web",
+            "email": "open2web@ukr.net",
+            "homepage": "https://open2web.com.ua",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">= 5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "open2web\\": "./src"
+        }
+    }
+}
