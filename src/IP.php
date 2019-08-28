@@ -4,7 +4,7 @@ namespace naviagency;
 
 /**
  * Class Ip
- * @package open2web
+ * @package naviagency
  */
 class IP {
 
