@@ -4,7 +4,7 @@
 ## Install
 
 ```shell
-$ composer require open2web/getip
+$ composer require navi-agency/getip
 ```
 
 ## Usage
