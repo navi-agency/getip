@@ -1,6 +1,6 @@
 <?php
 
-namespace open2web;
+namespace naviagency;
 
 /**
  * Class Ip
