@@ -11,6 +11,6 @@ $ composer require open2web/getip
 
 ```php
 <?php
-use open2web\IP;
+use navi-agency\IP;
 $ip = IP::get();
 ```
