@@ -4,13 +4,13 @@
 ## Install
 
 ```shell
-$ composer require navi-agency/getip
+$ composer require naviagency/getip
 ```
 
 ## Usage
 
 ```php
 <?php
-use navi-agency\IP;
+use naviagency\IP;
 $ip = IP::get();
 ```
