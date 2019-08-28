@@ -1,5 +1,5 @@
 {
-    "name": "open2web/getip",
+    "name": "navi-agency/getip",
     "description": "get ip",
     "keywords": [
         "ip"
@@ -9,8 +9,8 @@
     "authors": [
         {
             "name": "open2web",
-            "email": "open2web@ukr.net",
-            "homepage": "https://open2web.com.ua",
+            "email": "art@navi.agency",
+            "homepage": "https://navi.agency",
             "role": "Developer"
         }
     ],
@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "open2web\\": "./src"
+            "navi-agency\\": "./src"
         }
     }
 }
