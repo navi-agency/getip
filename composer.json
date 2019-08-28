@@ -1,5 +1,5 @@
 {
-    "name": "navi-agency/getip",
+    "name": "naviagency/getip",
     "description": "get ip",
     "keywords": [
         "ip"
@@ -19,7 +19,7 @@
     },
     "autoload": {
         "psr-4": {
-            "navi-agency\\": "./src"
+            "naviagency\\": "./src"
         }
     }
 }
